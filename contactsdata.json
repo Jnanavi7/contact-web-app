@@ -1,0 +1,66 @@
+{
+  "helpdesk": [
+    {
+      "groupName": "Family",
+      "id": 2
+    },
+    {
+      "groupName": "Friends",
+      "id": 3
+    },
+    {
+      "groupName": "Work",
+      "id": 4
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Yashas",
+      "phone": "632293712",
+      "selectGroup": "Work",
+      "email": "yashas@gmail.com",
+      "birthday": "1997-07-15",
+      "imgSrc": "https://png.pngtree.com/png-clipart/20230102/original/pngtree-business-man-avatar-png-image_8855195.png"
+    },
+    {
+      "name": "Hima",
+      "phone": "6327823908",
+      "selectGroup": "Family",
+      "email": "hima77@gmail.com",
+      "birthday": "2001-12-10",
+      "id": 2,
+      "imgSrc": "https://png.pngtree.com/png-clipart/20220424/original/pngtree-d-stylish-girl-character-avatar-with-pink-sweater-hat-and-blonde-png-image_7553681.png"
+    },
+    {
+      "name": "Dhwani",
+      "phone": "89890019032",
+      "selectGroup": "Friends",
+      "email": "dhwani02@gmail.com",
+      "birthday": "2002-03-15",
+      "id": 3,
+      "imgSrc": "https://png.pngtree.com/png-clipart/20220424/original/pngtree-d-stylish-girl-character-avatar-with-pink-sweater-hat-and-blonde-png-image_7553681.png"
+    },
+    {
+      "name": "Smisha",
+      "phone": "0993287891",
+      "selectGroup": "Family",
+      "email": "smi@gmail.com",
+      "birthday": "2000-12-10",
+      "id": 4,
+      "imgSrc": "https://png.pngtree.com/png-clipart/20220424/original/pngtree-d-stylish-girl-character-avatar-with-pink-sweater-hat-and-blonde-png-image_7553681.png"
+    },
+    {
+      "id": 5,
+      "name": "Akarsh",
+      "phone": "09328981",
+      "selectGroup": "Work",
+      "email": "akarsh55@gmail.com",
+      "birthday": "1995-05-08",
+      "imgSrc": "https://png.pngtree.com/png-clipart/20230102/original/pngtree-business-man-avatar-png-image_8855195.png"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
